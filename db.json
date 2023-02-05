@@ -1,4 +1,3 @@
-[
 {
     "name": "John",
     "age": 22,
@@ -8,15 +7,4 @@
 	"sport" : "football"
     },
     "class" : ["JavaScript", "HTML", "CSS"]
-},
-{
-    "name": "Ved",
-    "age": 40,
-    "hobby": {
-	"reading" : true,
-	"gaming" : false,
-	"sport" : "cricket"
-    },
-    "class" : ["JavaScript", "C#", "CSS"]
 }
-]
